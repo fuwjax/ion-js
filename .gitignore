@@ -30,6 +30,9 @@ tramp
 /eshell/history
 /eshell/lastdir
 
+# Istanbul
+.nyc_output/
+
 # elpa packages
 /elpa/
 
